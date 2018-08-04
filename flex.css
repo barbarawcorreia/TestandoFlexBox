@@ -1,0 +1,10 @@
+.main {
+    display: -webkit-flex;
+    display: flex;
+}
+
+/** Para deixar uma corzinha de fundo nos divs filhos **/
+.main div {
+    background:#CCC;
+    margin-right:10px;
+}
